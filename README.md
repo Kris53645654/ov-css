@@ -1,6 +1,7 @@
 ## Отправить в Github.com:
+'git status'
 
-'$ git add .'
+'git $ git add .'
 
 '$ git  comit -m "Text of the commit"'
 
